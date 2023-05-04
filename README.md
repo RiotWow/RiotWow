@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RiotWow 
+- 👀 I’m interested in python, cryptology, cyber-security. 
+- 🌱 I’m currently learning python. 
