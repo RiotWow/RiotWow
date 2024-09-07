@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RiotWow 
-- 👀 I’m interested in python, cryptology, cyber-security. 
+- 👀 I’m interested in python, cryptology, cyber-security, and Open-Source Intelligence (OSINT). 
 - 🌱 I’m currently learning python. 
