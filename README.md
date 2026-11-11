@@ -20,4 +20,4 @@ I'm a U.S. Air Force Russian cryptologic language analyst. My Russian-language e
 
 I'm interested in building detection rules, exploring detection-as-code, and creating threat intelligence tools. I'll share projects and write-ups here as they're ready.
 
-[View my portfolio HTML](portfolio/index.html) · Thanks for stopping by!
+Thanks for stopping by!
